@@ -1,0 +1,601 @@
+location,street address,Longitude,Latitude,city,state_abbrev,zip code,locatorJSON
+Annenberg Auditorium,435 Lasuen Mall,-122.168391,37.42771137,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""435 Lasuen Mall, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.168391003352,
+    ""y"": 37.427711369203
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.168882640924,
+    ""ymin"": 37.426540294559,
+    ""xmax"": -122.166882640924,
+    ""ymax"": 37.428540294559
+   }
+  }
+ ]
+}"
+Black Community Services Center (BCSC),418 Santa Teresa St,-122.1715322,37.42488005,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""418 Santa Teresa St, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.171532205386,
+    ""y"": 37.42488004613
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.172467329455,
+    ""ymin"": 37.42418992509,
+    ""xmax"": -122.170467329455,
+    ""ymax"": 37.42618992509
+   }
+  }
+ ]
+}"
+Braun Music Center,541 Lasuen Mall,-122.1693396,37.42357947,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""541 Lasuen Mall, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.169339583334,
+    ""y"": 37.423579468123
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.16998326863,
+    ""ymin"": 37.422835199989,
+    ""xmax"": -122.16798326863,
+    ""ymax"": 37.424835199989
+   }
+  }
+ ]
+}"
+Cemex Auditorium,641 Knight Way,-122.1629619,37.42813885,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""641 Knight Way, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.162961877027,
+    ""y"": 37.428138846265
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.16385777379,
+    ""ymin"": 37.427541345256,
+    ""xmax"": -122.16185777379,
+    ""ymax"": 37.429541345256
+   }
+  }
+ ]
+}"
+CoHo,459 Lagunita Dr,-122.1710818,37.42361723,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""459 Lagunita Dr, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.171081761909,
+    ""y"": 37.423617228597
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.172077235682,
+    ""ymin"": 37.422868434235,
+    ""xmax"": -122.170077235682,
+    ""ymax"": 37.424868434235
+   }
+  }
+ ]
+}"
+Cubberley Auditorium,485 Lasuen Mall,-122.1687652,37.42659951,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""485 Lasuen Mall, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.16876517151,
+    ""y"": 37.426599509747
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.16939293119,
+    ""ymin"": 37.425474200295,
+    ""xmax"": -122.16739293119,
+    ""ymax"": 37.427474200295
+   }
+  }
+ ]
+}"
+Dinkelspiel Auditorium,471 Lagunita Dr,-122.1702929,37.4235705,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""471 Lagunita Dr, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.170292941001,
+    ""y"": 37.423570499487
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.170886670154,
+    ""ymin"": 37.423073497497,
+    ""xmax"": -122.168886670154,
+    ""ymax"": 37.425073497497
+   }
+  }
+ ]
+}"
+Encina Hall,616 Jane Stanford Way,-122.1646098,37.42786044,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""616 Jane Stanford Way, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.164609759191,
+    ""y"": 37.427860441351
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.165718807752,
+    ""ymin"": 37.426322155529,
+    ""xmax"": -122.163718807752,
+    ""ymax"": 37.428322155529
+   }
+  }
+ ]
+}"
+"Eucalyptus Grove, Stanford University",291 Lasuen St,-122.1662297,37.43399824,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""291 Lasuen St, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.166229705778,
+    ""y"": 37.433998241423
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.167229705778,
+    ""ymin"": 37.432998241423,
+    ""xmax"": -122.165229705778,
+    ""ymax"": 37.434998241423
+   }
+  }
+ ]
+}"
+Frost Amphitheater,351 Lasuen St,-122.1680926,37.42864729,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""351 Lasuen Mall, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.168092607598,
+    ""y"": 37.428647292512
+   },
+   ""score"": 98.04,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.166920940305,
+    ""ymin"": 37.429860534045,
+    ""xmax"": -122.164920940305,
+    ""ymax"": 37.431860534045
+   }
+  }
+ ]
+}"
+Harmony House,561 Lomita Dr,-122.1728736,37.42568454,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""561 Lomita Mall, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.17287364517,
+    ""y"": 37.425684541196
+   },
+   ""score"": 98.04,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.172129035843,
+    ""ymin"": 37.424146003917,
+    ""xmax"": -122.170129035843,
+    ""ymax"": 37.426146003917
+   }
+  }
+ ]
+}"
+J. Henry Meyer Memorial Library,560 Escondido Mall,-122.1670995,37.42559087,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""560 Escondido Mall, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.167099519711,
+    ""y"": 37.425590873428
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.168746434998,
+    ""ymin"": 37.424551562303,
+    ""xmax"": -122.166746434998,
+    ""ymax"": 37.426551562303
+   }
+  }
+ ]
+}"
+Kresge Auditorium,555 Nathan Abbott Way,-122.168094,37.42317953,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""555 Nathan Abbott Way, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.168094032522,
+    ""y"": 37.423179525613
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.169147676703,
+    ""ymin"": 37.422297123715,
+    ""xmax"": -122.167147676703,
+    ""ymax"": 37.424297123715
+   }
+  }
+ ]
+}"
+Memorial Auditorium,551 Jane Stanford Way,-122.1666437,37.42852789,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""551 Jane Stanford Way, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.166643711816,
+    ""y"": 37.428527892301
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.16752041402,
+    ""ymin"": 37.427931229482,
+    ""xmax"": -122.16552041402,
+    ""ymax"": 37.429931229482
+   }
+  }
+ ]
+}"
+O'Donohue Educational Farm,175 Electioneer Rd,-122.1838866,37.42628053,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""175 Electioneer Rd, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.1838865658,
+    ""y"": 37.426280527795
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.1848865658,
+    ""ymin"": 37.425280527795,
+    ""xmax"": -122.1828865658,
+    ""ymax"": 37.427280527795
+   }
+  }
+ ]
+}"
+Old Union Ballroom (Clubhouse),524 Lasuen Mall,-122.1697255,37.42468911,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""524 Lasuen Mall, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.169725486156,
+    ""y"": 37.424689106375
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.170965208587,
+    ""ymin"": 37.423752557382,
+    ""xmax"": -122.168965208587,
+    ""ymax"": 37.425752557382
+   }
+  }
+ ]
+}"
+Paul Brest Hall (Munger Building),555 Salvatierra Walk,-122.1673508,37.42282325,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""555 Salvatierra Walk, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.167350809168,
+    ""y"": 37.422823252819
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.168118462812,
+    ""ymin"": 37.421983933903,
+    ""xmax"": -122.166118462812,
+    ""ymax"": 37.423983933903
+   }
+  }
+ ]
+}"
+Pigott Theater,551 Jane Stanford Way,-122.1666437,37.42852789,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""551 Jane Stanford Way, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.166643711816,
+    ""y"": 37.428527892301
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.16752041402,
+    ""ymin"": 37.427931229482,
+    ""xmax"": -122.16552041402,
+    ""ymax"": 37.429931229482
+   }
+  }
+ ]
+}"
+Roble Gym,375 Santa Teresa St,-122.1749217,37.42564837,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""375 Santa Teresa St, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.174921679392,
+    ""y"": 37.425648373284
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.175842973321,
+    ""ymin"": 37.42503394083,
+    ""xmax"": -122.173842973321,
+    ""ymax"": 37.42703394083
+   }
+  }
+ ]
+}"
+Stanford Art Gallery,419 Lasuen Mall,-122.1682459,37.42814253,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""419 Lasuen Mall, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.168245912608,
+    ""y"": 37.428142534303
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.168891525742,
+    ""ymin"": 37.427023343639,
+    ""xmax"": -122.166891525742,
+    ""ymax"": 37.429023343639
+   }
+  }
+ ]
+}"
+Stanford Humanities Center,424 Santa Teresa St,-122.172059,37.42493444,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""424 Santa Teresa St, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.172059008,
+    ""y"": 37.424934444681
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.173126985235,
+    ""ymin"": 37.423609981209,
+    ""xmax"": -122.171126985235,
+    ""ymax"": 37.425609981209
+   }
+  }
+ ]
+}"
+Stanford Main Quad,20 Palm Dr,-122.1675264,37.43583148,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""20 Palm Dr, Palo Alto, California, 94304"",
+   ""location"": {
+    ""x"": -122.167526364678,
+    ""y"": 37.4358314761
+   },
+   ""score"": 99.49,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.168526364678,
+    ""ymin"": 37.4348314761,
+    ""xmax"": -122.166526364678,
+    ""ymax"": 37.4368314761
+   }
+  }
+ ]
+}"
+The Nitery,514 Lasuen Mall,-122.1695258,37.42528686,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""514 Lasuen Mall, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.169525829223,
+    ""y"": 37.4252868618
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.170720792291,
+    ""ymin"": 37.424352743559,
+    ""xmax"": -122.168720792291,
+    ""ymax"": 37.426352743559
+   }
+  }
+ ]
+}"
+White Plaza,359 Lasuen Mall,-122.1681003,37.42865249,Stanford,CA,94305,"{
+ ""spatialReference"": {
+  ""wkid"": 4326,
+  ""latestWkid"": 4326
+ },
+ ""candidates"": [
+  {
+   ""address"": ""359 Lasuen Mall, Stanford, California, 94305"",
+   ""location"": {
+    ""x"": -122.168100318949,
+    ""y"": 37.428652489292
+   },
+   ""score"": 100,
+   ""attributes"": {
+    
+   },
+   ""extent"": {
+    ""xmin"": -122.168149224396,
+    ""ymin"": 37.42967311469,
+    ""xmax"": -122.166149224396,
+    ""ymax"": 37.43167311469
+   }
+  }
+ ]
+}"
